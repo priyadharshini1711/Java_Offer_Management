@@ -1,0 +1,28 @@
+
+ksquid:S2095*"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¤éÕÿÿÿÿÿ
+ksquid:S2095""OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(”ŸÄ³ûÿÿÿÿ
+dsquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(âìÎ¼ıÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Š£
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ
+?squid:S11486"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S11488"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148<"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Tsquid:S1197
+"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê¹äÙÿÿÿÿÿ
+Tsquid:S1197"8Move the array designator from the variable to the type.(Â›Ãùıÿÿÿÿ
+Osquid:S1197"8Move the array designator from the variable to the type.(ä²—
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÁªÒšùÿÿÿÿ
+[squid:S21477"DCombine this catch with the one at line 53, which has the same body.(ıàÑÎ
+`squid:S2147:"DCombine this catch with the one at line 53, which has the same body.(¼Ôîàùÿÿÿÿ
+Dsquid:S4925"-Remove this "Class.forName()", it is useless.(ùíÄé
+<squid:S2068" Remove this hard-coded password.(âìÎ¼ıÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨ˆêèøÿÿÿÿ
+T
+squid:S106("9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T
+squid:S106/"9Replace this use of System.out or System.err by a logger.(úé®Œşÿÿÿÿ
