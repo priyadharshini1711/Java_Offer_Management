@@ -1,0 +1,5 @@
+<root>
+    <item name='java.lang.StringBuilder java.lang.StringBuilder append(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.Nullable'/>
+    </item>
+</root>
