@@ -23,7 +23,7 @@ public class offermanagement
         try {
             Class.forName("oracle.jdbc.driver.OracleDriver");
             Connection con= null;
-            con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","raymedi_hq","raymedi_hq");
+            con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","","");
             SimpleDateFormat format=new SimpleDateFormat("dd-mm-yyyy");
             Date d=format.parse(sdate);
             java.sql.Date dt = new java.sql.Date(d.getTime());
